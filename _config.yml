@@ -23,10 +23,32 @@ pretty_urls:
 plugins:
   - hexo-generator-search
  
-search:
-  path: 'search.json'
-  field: 'title,content'
-  format: 'json'
+algolia:
+  appId: "IZ845G3SQG"
+  apiKey: "381e98702820650923216a5f47f18d71"
+  adminApiKey: "b54c2f50b5929dd86cb583a5565700eb"
+  chunkSize: 5000
+  indexName: "movie"
+  fields:
+    - content:strip:truncate,0,500
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
+
+algolia_search:
+  enable: true
+  hits:
+    per_page: 10
+  labels:
+    input_placeholder: Search for Posts
+    hits_empty: "我们没有找到任何搜索结果: ${query}"
+    hits_stats: "找到${hits}条结果（用时${time} ms）"
+
+
 
 abbrlink:
   alg: crc16      #support crc16(default) and crc32
