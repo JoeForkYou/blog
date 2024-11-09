@@ -1,7 +1,7 @@
 ---
 title: CTS基础操作
 date: 2024-11-10 01:01:39
-tags: cts
+tags: [cts ,Android,GMS]
 ---
 # 手机端
 设置永久不锁屏
