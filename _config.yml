@@ -11,6 +11,9 @@ author: JoeNero
 language: cn
 timezone: ''
 
+
+
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://joeforkyou.github.io/
@@ -20,8 +23,9 @@ pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 
+
 plugins:
-  - hexo-generator-search
+  - hexo-algoliasearch
  
 algolia:
   appId: "IZ845G3SQG"
