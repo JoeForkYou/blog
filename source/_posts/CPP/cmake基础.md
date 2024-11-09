@@ -3,6 +3,7 @@ title: cmake基础
 tags: cpp
 abbrlink: 14555
 date: 2024-11-10 02:33:36
+categories: cpp
 ---
 
 # 1 概述

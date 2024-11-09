@@ -3,6 +3,7 @@ title: Linux 命令之AWK过滤提取需要的信息
 tags: linux
 abbrlink: 30124
 date: 2024-11-10 03:07:29
+categories: linux
 ---
 # 1 概述
 AWK是一个优良的文本处理工具，Linux及Unix环境中现有的功能最强大的数据处理引擎之一。这种编程及数据操作语言（其名称得自于它的创始人阿尔佛雷德·艾侯、彼得·温伯格和布莱恩·柯林汉姓氏的首个字母）的最大功能取决于一个人所拥有的知识。awk经过改进生成的新的版本nawk,gawk，现在默认linux系统下日常使用的是gawk，用命令可以查看正在应用的awk的来源（ls -l /bin/awk ）

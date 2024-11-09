@@ -3,6 +3,7 @@ title: git的使用
 tags: git
 abbrlink: 42437
 date: 2024-11-10 00:50:40
+categories: git
 ---
 
 # 1.git 下载

@@ -3,6 +3,7 @@ title: 一篇文章入门python去写shell
 tags: python
 abbrlink: 40801
 date: 2024-11-10 02:44:14
+categories: python
 ---
 
 # 1 基础

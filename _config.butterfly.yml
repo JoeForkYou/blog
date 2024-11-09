@@ -496,6 +496,10 @@ search:
     unescape: false
     CDN:
 
+# hexo-butterfly-categories-card
+# see https://akilar.top/posts/a9131002/
+
+
   # Docsearch
   # https://docsearch.algolia.com/
   docsearch:
@@ -801,7 +805,7 @@ display_mode: light
 
 # Configuration for beautifying the content of the article
 beautify:
-  enable: false
+  enable: true
   # Specify the field to beautify (site or post)
   field: post
   # Specify the icon to be used as a prefix for the title, such as '\f0c1'

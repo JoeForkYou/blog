@@ -7,6 +7,7 @@ tags:
   - acdk
 abbrlink: 8765
 date: 2024-11-10 04:29:50
+categories: [hal,camera,meta,acdk]
 ---
 
 # 1 背景

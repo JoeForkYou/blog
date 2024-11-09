@@ -3,6 +3,7 @@ title: linux下openCV搭建
 tags: linux
 abbrlink: 44710
 date: 2024-11-10 03:09:18
+categories: linux
 ---
 
 # 1 依赖项

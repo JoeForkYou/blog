@@ -3,6 +3,7 @@ title: python爬取天气
 tags: python
 abbrlink: 26103
 date: 2024-11-10 01:07:35
+categories: python
 ---
 
 # 1 安装使用

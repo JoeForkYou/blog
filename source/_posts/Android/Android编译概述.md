@@ -3,6 +3,7 @@ title: Android编译概述
 tags: Android
 abbrlink: 6664
 date: 2024-11-10 02:22:33
+categories: Android
 ---
 
 所有的编译都要先source build/envsetup.sh

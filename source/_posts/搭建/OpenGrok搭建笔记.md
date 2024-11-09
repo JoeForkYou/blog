@@ -3,6 +3,7 @@ title: OpenGrok搭建笔记
 tags: openGrok
 abbrlink: 64550
 date: 2024-11-10 02:20:30
+categories: openGrok
 ---
 # OpenGrok
 克隆仓库

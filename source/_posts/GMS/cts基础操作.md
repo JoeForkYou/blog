@@ -6,6 +6,7 @@ tags:
   - GMS
 abbrlink: 5338
 date: 2024-11-10 01:01:39
+categories: [Android, GMS,cts]
 ---
 # 手机端
 设置永久不锁屏
