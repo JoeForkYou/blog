@@ -1,8 +1,9 @@
 ---
 title: cif
-date: 2024-11-10 07:15:45
 tags: camera
 categories: camera
+abbrlink: 25694
+date: 2024-11-10 07:15:45
 ---
 
 

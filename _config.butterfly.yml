@@ -474,6 +474,24 @@ math:
 # --------------------------------------
 # Search
 # --------------------------------------
+plugins:
+  - hexo-algoliasearch
+ 
+algolia:
+  appId: "IZ845G3SQG"
+  apiKey: "381e98702820650923216a5f47f18d71"
+  adminApiKey: "b54c2f50b5929dd86cb583a5565700eb"
+  chunkSize: 5000
+  indexName: "movie"
+  fields:
+    - content:strip:truncate,0,500
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
 
 search:
   # Choose: algolia_search / local_search / docsearch
