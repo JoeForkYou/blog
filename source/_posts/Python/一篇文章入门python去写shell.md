@@ -1,7 +1,8 @@
 ---
 title: 一篇文章入门python去写shell
-date: 2024-11-10 02:44:14
 tags: python
+abbrlink: 40801
+date: 2024-11-10 02:44:14
 ---
 
 # 1 基础

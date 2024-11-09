@@ -1,7 +1,10 @@
 ---
 title: Andoird camera app从零养成计划【二】
+tags:
+  - Android
+  - APP
+abbrlink: 31738
 date: 2024-11-10 02:29:38
-tags: [Android, APP]
 ---
 
 # 1 API1

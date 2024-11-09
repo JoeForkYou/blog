@@ -1,7 +1,8 @@
 ---
 title: anaconda3管理python包环境说明
-date: 2024-11-10 02:38:18
 tags: python
+abbrlink: 10736
+date: 2024-11-10 02:38:18
 ---
 
 @[toc]

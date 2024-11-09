@@ -1,7 +1,8 @@
 ---
 title: OpenGrok搭建笔记
-date: 2024-11-10 02:20:30
 tags: openGrok
+abbrlink: 64550
+date: 2024-11-10 02:20:30
 ---
 # OpenGrok
 克隆仓库

@@ -1,7 +1,8 @@
 ---
 title: cmake基础
-date: 2024-11-10 02:33:36
 tags: cpp
+abbrlink: 14555
+date: 2024-11-10 02:33:36
 ---
 
 # 1 概述

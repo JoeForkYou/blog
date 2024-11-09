@@ -1,7 +1,8 @@
 ---
 title: Android编译概述
-date: 2024-11-10 02:22:33
 tags: Android
+abbrlink: 6664
+date: 2024-11-10 02:22:33
 ---
 
 所有的编译都要先source build/envsetup.sh

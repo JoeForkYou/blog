@@ -1,7 +1,8 @@
 ---
 title: python爬取天气
-date: 2024-11-10 01:07:35
 tags: python
+abbrlink: 26103
+date: 2024-11-10 01:07:35
 ---
 
 # 1 安装使用

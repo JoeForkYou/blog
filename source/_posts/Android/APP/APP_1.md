@@ -1,7 +1,10 @@
 ---
 title: Andoird camera app从零养成计划【一】
+tags:
+  - Android
+  - APP
+abbrlink: 60288
 date: 2024-11-10 00:41:32
-tags: [Android, APP]
 ---
 
 要创建一个基本的Camera App demo，我们将使用Android Studio和Java来编写一个应用，该应用能够打开相机预览，拍照，并保存照片到设备的存储中。这里将使用Android的Camera2 API，因为它提供了更丰富的功能和更好的性能，尽管它比Camera API（已弃用）更复杂一些。
