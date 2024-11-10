@@ -5,7 +5,6 @@ categories: camera
 abbrlink: 28751
 date: 2024-11-10 18:53:19
 ---
-​
 
 分层：将各层的接口和实现分开
 Camera架构
@@ -40,5 +39,5 @@ CameraSensor 驱动/AF/otp等相关驱动。用于实现其基本逻辑
 # Hardware
 camera最底层V4L2
 物理实现部分/dts/相关设备树供电
+![camera架构.png](https://s2.loli.net/2024/11/10/iAr8ZIY4FcgGkMp.png)
 
-![​​​](https://i-blog.csdnimg.cn/blog_migrate/495b8430ba7fe0618c00d8472771e86e.png)
