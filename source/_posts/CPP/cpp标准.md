@@ -1,5 +1,5 @@
 ---
-title: '''cpp标准'''
+title: cpp标准
 tags: cpp
 categories: cpp
 abbrlink: 52398
