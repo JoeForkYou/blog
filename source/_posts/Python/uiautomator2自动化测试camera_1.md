@@ -1,5 +1,5 @@
 ---
-title: 'uiautomator2自动化测试camera【一】'
+title: '【uiautomator】自动化测试camera【一】'
 tags: python
 categories: python
 abbrlink: 63775
