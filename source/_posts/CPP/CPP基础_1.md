@@ -1,5 +1,5 @@
 ---
-title: 【CPP基础】一
+title: 【CPP基础】【一】
 tags: cpp
 categories: cpp
 abbrlink: 47760
