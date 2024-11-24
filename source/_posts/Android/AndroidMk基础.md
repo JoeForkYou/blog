@@ -1,8 +1,9 @@
 ---
 title: AndroidMk基础
-date: 2024-11-24 15:49:34
 tags: Android
 categories: Android
+abbrlink: 7470
+date: 2024-11-24 15:49:34
 ---
 
 
