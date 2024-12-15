@@ -1,7 +1,7 @@
 ---
 title: AndroidBp
-tags: cpp
-categories: cpp
+tags: Android
+categories: Android
 abbrlink: 60717
 date: 2024-12-15 10:30:39
 ---
