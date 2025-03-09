@@ -1,5 +1,5 @@
 ---
-title: 1nRF52832开发入门【一】
+title: nRF52832开发入门【一】
 tags: nodic
 categories: nodic
 abbrlink: 13406
