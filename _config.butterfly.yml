@@ -947,9 +947,9 @@ abcjs:
 # Mermaid
 # https://github.com/mermaid-js/mermaid
 mermaid:
-  enable: false
+  enable: true
   # Write Mermaid diagrams using code blocks
-  code_write: false
+  code_write: true
   # built-in themes: default / forest / dark / neutral
   theme:
     light: default
@@ -1067,7 +1067,8 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
-    # - <script src="xxxx"></script>
+    - <script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+    - <script>mermaid.initialize({startOnLoad:true});</script>
 
 # CDN Settings
 # Don't modify the following settings unless you know how they work
@@ -1087,6 +1088,7 @@ CDN:
   custom_format:
 
   option:
+    mermaid: https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
     # abcjs_basic_js:
     # activate_power_mode:
     # algolia_js:
