@@ -3,6 +3,7 @@ title: 【Zephyr】【一】Zephyr RTOS 示例代码集
 tags: zephyr
 abbrlink: 25034
 date: 2025-03-20 22:09:02
+categories: zephyr
 ---
 
 # Zephyr RTOS 示例代码集
