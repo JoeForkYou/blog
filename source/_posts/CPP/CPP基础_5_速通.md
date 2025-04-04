@@ -1,5 +1,5 @@
 ---
-title: 【CPP基础】【四】【申请释放】
+title: 【CPP基础】【五】【CPP速通】
 date: 2025-04-04 16:51:04
 tags:cpp
 categories:cpp
