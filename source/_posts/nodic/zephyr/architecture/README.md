@@ -17,10 +17,10 @@ Zephyr RTOS 是一个模块化、可扩展的实时操作系统，设计用于�
 
 ## 目录
 
-1. [内核架构](/nodic/zephyr/architecture/kernel)
-2. [硬件支持](/nodic/zephyr/architecture/hardware)
-3. [设备树](/nodic/zephyr/architecture/devicetree)
-4. [驱动模型](/nodic/zephyr/architecture/drivers)
+1. [内核架构](kernel)
+2. [硬件支持](hardware)
+3. [设备树](devicetree)
+4. [驱动模型](drivers)
 
 ## 架构概览
 

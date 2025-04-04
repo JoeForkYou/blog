@@ -9,10 +9,10 @@ date: '2025-03-21 20:49:56'
 
 ## 目录
 
-1. [工具链安装](./installation.md)
-   - 支持的操作系统
-   - SDK 安装步骤
-   - 交叉编译器配置
+1. [工具链安装](installation)
+2. [构建系统](build_system)
+3. [调试工具](debugging)
+4. [开发环境](ide)
    - 常见问题解决
 
 2. [构建系统](./build_system.md)

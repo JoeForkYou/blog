@@ -20,57 +20,57 @@ mermaid: true
 
 ## 目录结构
 
-1. [快速入门](/nodic/zephyr/quick_start/README/)
+1. [快速入门](quick_start/README.md)
    - 环境搭建
    - Hello World 示例
    - 基本概念
 
-2. [系统架构](/nodic/zephyr/architecture/README/)
-   - [内核架构](/nodic/zephyr/architecture/kernel/)
-   - [硬件支持](/nodic/zephyr/architecture/hardware/)
-   - [设备树](/nodic/zephyr/architecture/devicetree/)
-   - [驱动模型](/nodic/zephyr/architecture/drivers/)
+2. [系统架构](architecture/README.md)
+   - [内核架构](architecture/kernel.md)
+   - [硬件支持](architecture/hardware.md)
+   - [设备树](architecture/devicetree.md)
+   - [驱动模型](architecture/drivers.md)
 
-3. [核心模块](/nodic/zephyr/core/README/)
-   - [内核模块](/nodic/zephyr/core/kernel/)
+3. [核心模块](core/README.md)
+   - [内核模块](core/kernel.md)
      - 线程管理
      - 内存管理
      - 中断处理
      - 定时器
-   - [驱动系统](/nodic/zephyr/core/drivers/)
+   - [驱动系统](core/drivers.md)
      - GPIO
      - UART
      - SPI
      - I2C
-   - [网络协议栈](/nodic/zephyr/core/networking/)
-   - [文件系统](/nodic/zephyr/core/filesystem/)
-   - [电源管理](/nodic/zephyr/core/power/)
+   - [网络协议栈](core/networking.md)
+   - [文件系统](core/filesystem.md)
+   - [电源管理](core/power.md)
 
-4. [开发指南](/nodic/zephyr/development/README/)
-   - [应用开发流程](/nodic/zephyr/development/application/)
-   - [驱动开发指南](/nodic/zephyr/development/driver/)
-   - [调试技巧](/nodic/zephyr/development/debugging/)
-   - [测试框架](/nodic/zephyr/development/testing/)
-   - [贡献指南](/nodic/zephyr/development/contributing/)
+4. [开发指南](development/README.md)
+   - [应用开发流程](development/application.md)
+   - [驱动开发指南](development/driver.md)
+   - [调试技巧](development/debugging.md)
+   - [测试框架](development/testing.md)
+   - [贡献指南](development/contributing.md)
 
-5. [示例代码](/nodic/zephyr/examples/README/)
-   - [基础示例](/nodic/zephyr/examples/basic/)
-   - [网络示例](/nodic/zephyr/examples/networking/)
-   - [传感器示例](/nodic/zephyr/examples/sensors/)
-   - [蓝牙示例](/nodic/zephyr/examples/bluetooth/)
+5. [示例代码](examples/README.md)
+   - [基础示例](examples/basic.md)
+   - [网络示例](examples/networking.md)
+   - [传感器示例](examples/sensors.md)
+   - [蓝牙示例](examples/bluetooth.md)
 
-6. [硬件支持](/nodic/zephyr/boards/README/)
-   - [支持的开发板](/nodic/zephyr/boards/supported/)
-   - [添加新板子](/nodic/zephyr/boards/porting/)
-   - [硬件抽象层](/nodic/zephyr/boards/hal/)
+6. [硬件支持](boards/README.md)
+   - [支持的开发板](boards/supported.md)
+   - [添加新板子](boards/porting.md)
+   - [硬件抽象层](boards/hal.md)
 
-7. [工具链](/nodic/zephyr/toolchain/README/)
-   - [构建系统](/nodic/zephyr/toolchain/build_system/)
-   - [IDE支持](/nodic/zephyr/toolchain/ide/)
-   - [调试工具](/nodic/zephyr/toolchain/debugging/)
-   - [安装指南](/nodic/zephyr/toolchain/installation/)
+7. [工具链](toolchain/README.md)
+   - [构建系统](toolchain/build_system.md)
+   - [IDE支持](toolchain/ide.md)
+   - [调试工具](toolchain/debugging.md)
+   - [安装指南](toolchain/installation.md)
 
-8. [常见问题](/nodic/zephyr/faq/README/)
+8. [常见问题](faq/README.md)
    - 编译问题
    - 运行问题
    - 开发问题
@@ -82,19 +82,19 @@ mermaid: true
 ### 使用方法
 
 1. 新手入门：
-   - 按照[快速入门](/nodic/zephyr/quick_start/README/)章节逐步学习
-   - 参考[示例代码](/nodic/zephyr/examples/README/)动手实践
-   - 遇到问题查看[常见问题](/nodic/zephyr/faq/README/)
+   - 按照[快速入门](quick_start/README.md)章节逐步学习
+   - 参考[示例代码](examples/README.md)动手实践
+   - 遇到问题查看[常见问题](faq/README.md)
 
 2. 进阶开发：
-   - 深入学习[系统架构](/nodic/zephyr/architecture/README/)
-   - 掌握[核心模块](/nodic/zephyr/core/README/)的使用
-   - 参考[开发指南](/nodic/zephyr/development/README/)进行应用开发
+   - 深入学习[系统架构](architecture/README.md)
+   - 掌握[核心模块](core/README.md)的使用
+   - 参考[开发指南](development/README.md)进行应用开发
 
 3. 高级主题：
-   - 学习[工具链](/nodic/zephyr/toolchain/README/)的高级用法
-   - 了解[硬件支持](/nodic/zephyr/boards/README/)的扩展方法
-   - 参与社区贡献，查看[贡献指南](/nodic/zephyr/development/contributing/)
+   - 学习[工具链](toolchain/README.md)的高级用法
+   - 了解[硬件支持](boards/README.md)的扩展方法
+   - 参与社区贡献，查看[贡献指南](development/contributing.md)
 
 ### 文档特点
 

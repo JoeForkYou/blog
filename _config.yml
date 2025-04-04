@@ -152,5 +152,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo:  https://github.com/JoeForkYou/JoeForkYou.github.io.git
+  repo:  git@github.com:JoeForkYou/JoeForkYou.github.io.git
   branch: master

@@ -16,49 +16,49 @@ mermaid: true
 
 ## 目录
 
-1. [应用程序开发](/nodic/zephyr/development/application)
+1. [应用程序开发](application.md)
    - 应用程序结构
    - 配置系统
    - 构建系统
    - 应用程序示例
 
-2. [驱动开发](/nodic/zephyr/development/driver)
+2. [驱动开发](driver.md)
    - 驱动模型
    - 驱动 API
    - 设备树绑定
    - 驱动示例
 
-3. [设备树配置](/nodic/zephyr/development/devicetree)
+3. [设备树配置](devicetree.md)
    - 设备树基础
    - 节点和属性
    - 绑定文件
    - 覆盖文件
 
-4. [内核服务](/nodic/zephyr/development/kernel)
+4. [内核服务](kernel.md)
    - 线程管理
    - 同步机制
    - 内存管理
    - 定时器服务
 
-5. [网络开发](/nodic/zephyr/development/networking)
+5. [网络开发](networking.md)
    - 网络协议栈
    - 网络接口
    - 协议实现
    - 网络应用
 
-6. [安全开发](/nodic/zephyr/development/security)
+6. [安全开发](security.md)
    - 安全启动
    - 加密服务
    - 安全存储
    - 访问控制
 
-7. [测试与调试](/nodic/zephyr/development/testing)
+7. [测试与调试](testing.md)
    - 单元测试
    - 集成测试
    - 调试技术
    - 性能分析
 
-8. [移植指南](/nodic/zephyr/development/porting)
+8. [移植指南](porting.md)
    - 板级支持包
    - SOC 适配
    - 驱动移植

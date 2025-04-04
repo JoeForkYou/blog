@@ -22,12 +22,10 @@ graph TD
     A[应用层] --> B[主机层]
     B --> C[控制器层]
     C --> D[硬件]
-    
     subgraph "主机层"
         E[GATT/GAP] --> F[L2CAP]
         F --> G[HCI]
     end
-    
     subgraph "控制器层"
         H[链路层] --> I[物理层]
     end

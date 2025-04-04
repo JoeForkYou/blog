@@ -9,28 +9,28 @@ date: '2025-03-21 20:49:56'
 
 ## 目录
 
-1. [基础示例](/nodic/zephyr/examples/basic)
+1. [基础示例](../examples/basic)
    - Hello World
    - LED 控制
    - 按键输入
    - 定时器使用
    - 多线程编程
 
-2. [网络示例](/nodic/zephyr/examples/networking)
+2. [网络示例](../examples/networking)
    - TCP/IP 通信
    - UDP 通信
    - HTTP 客户端/服务器
    - MQTT 客户端
    - CoAP 通信
 
-3. [传感器示例](/nodic/zephyr/examples/sensors)
+3. [传感器示例](../examples/sensors)
    - 温度传感器
    - 加速度传感器
    - 压力传感器
    - 光线传感器
    - 传感器数据融合
 
-4. [蓝牙示例](/nodic/zephyr/examples/bluetooth)
+4. [蓝牙示例](../examples/bluetooth)
    - BLE 广播
    - GATT 服务
    - BLE 中心设备

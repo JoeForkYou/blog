@@ -165,7 +165,7 @@ app/
 ## 下一步
 
 完成快速入门后，建议：
-1. 尝试更多[示例代码](/nodic/zephyr/examples/README)
-2. 学习[系统架构](/nodic/zephyr/architecture/README)
-3. 了解[核心模块](/nodic/zephyr/core/README)使用
-4. 参考[开发指南](/nodic/zephyr/development/README)开始实际项目
+1. 尝试更多[示例代码](../examples)
+2. 学习[系统架构](../architecture)
+3. 了解[核心模块](../core)使用
+4. 参考[开发指南](../development)开始实际项目

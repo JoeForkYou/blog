@@ -17,11 +17,11 @@ Zephyr RTOS 提供了丰富的核心模块，用于支持各种嵌入式应用�
 
 ## 目录
 
-1. [内核模块](/nodic/zephyr/core/kernel)
-   - 线程管理
-   - 内存管理
-   - 同步原语
-   - 定时器与时间管理
+1. [内核模块](kernel)
+2. [驱动系统](drivers)
+3. [网络协议栈](networking)
+4. [文件系统](filesystem)
+5. [电源管理](power)
 
 2. [驱动系统](/nodic/zephyr/core/drivers)
    - 驱动框架

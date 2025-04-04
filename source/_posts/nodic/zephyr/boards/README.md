@@ -17,9 +17,9 @@ mermaid: true
 
 ## 目录
 
-1. [支持的开发板](./supported.md)
-   - 主要开发板列表
-   - 硬件特性对比
+1. [支持的开发板](supported)
+2. [添加新板子](porting)
+3. [硬件抽象层](hal)
    - 开发板选择指南
 
 2. [添加新板子](./porting.md)
